@@ -1,0 +1,41 @@
+
+.section2{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding-right: 50px;
+    height: 300px;
+}
+
+.section2-item p:first-child{
+    font-size: 35px;
+    font-family: "RubikMed500";
+}
+
+.section2-item div{
+    display: flex;
+}
+
+.section2-item{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.section2-video{
+    width: 500px;    
+    /* height: 500px; */
+}
+
+.section2-video iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-sizing: border-box;
+}
+
+.section2-item div>img{
+    margin-right: 10px;
+}

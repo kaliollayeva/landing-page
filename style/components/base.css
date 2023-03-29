@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "RubikReg400";
+    src: url("../../font/Rubik-Regular.ttf");
+}
+body{
+    background-color: #fff;
+    padding: 45.62px 150px;
+    font-family: "RubikReg400";
+    box-sizing: border-box;
+}
+
+
+
+

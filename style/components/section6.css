@@ -1,0 +1,78 @@
+.section6-item1{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+
+.section6-item1 h2{
+    font-size: 35px;
+    font-family: 'RubikMed500';
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.section6-item1 button{
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #F53838;
+    
+    font-family: "RubikBold";
+    color: #F53838;
+    transition: .4s;
+}
+
+.section6-item1 button:hover{
+    background-color: #F53838;
+    color: #fff;
+    box-shadow: 0 10px 27px  #F53838;
+}
+
+.section6-item1 div:last-child{
+    display: flex;
+    align-items: center;
+}
+
+.section6-item2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding: 0 50px 100px 50px;
+}
+
+.section6-item2--inter234 p{
+    line-height: 30px;
+    color: #4F5665;
+}
+
+.section6-item2 h2{
+    font-size: 18px;
+    font-family: "RubikMed500";
+    line-height: 30px; 
+    margin-bottom: 20px;
+}
+
+.section6-item2--inter1>p{
+    margin-top: 20px;
+    color: #4F5665;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.section6-item2 h6{
+    color: #AFB5C0;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.section6-item2--img img{
+    width: 50px;
+    height: 50px;
+}
+
+.section6{
+    background-color: #F8F8F8;
+}
+    
